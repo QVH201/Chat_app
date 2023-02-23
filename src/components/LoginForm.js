@@ -19,7 +19,7 @@ const LoginForm = () => {
 
   return (
     <form onSubmit={handleSubmit(onSubmit)} className='centered-container-form'>
-      <div className='header'>Welcome here 🎉🎉🎉</div>
+      <div className='header'>Welcome here</div>
       <div className='subheader'>Login and chat with other people!</div>
       <div className='form-container'>
         <div className='form-group'>

@@ -13,7 +13,7 @@
     "make:macos": "electron-builder --mac",
     "make:win": "electron-builder --win --x64"
   },
-  "author": "ddevtk",
+  "author": "Quach Hoa",
   "license": "MIT",
   "build": {
     "productName": "Chat App",
